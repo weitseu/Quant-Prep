@@ -27,7 +27,6 @@
 - **binomial_tree_pricing.ipynb**
   - Binomial option pricing model
 
-- **📦 Dependencies**
-  - numpy, pandas, matplotlib, scipy, yfinance, etc.
+**📦 Dependencies:** numpy, pandas, matplotlib, scipy, yfinance, etc.
 
-> 📝 **Note:** These projects were built for learning purposes. The code examples in this repository were learned from online resources and refined with the help of generative AI.
+**📝 Note:** These projects were built for learning purposes. The code examples in this repository were learned from online resources and refined with the help of generative AI.
