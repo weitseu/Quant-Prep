@@ -2,8 +2,8 @@
 
 - **stock_return_analysis.ipynb**
   - Importing data from yfinance  
-  - Correlation analysis  
-  - Rolling Sharpe ratio
+  - Return, volatility, and correlation analysis  
+  - Maximum drawdown and (rolling) Sharpe ratio
 
 - **portfolio_simulation.ipynb**
   - Multidimensional correlated GBM simulator  
