@@ -1,8 +1,8 @@
 ## 📂 quant-prep/
 
 - **stock_return_analysis.ipynb**
-  - Importing data from yfinance
-  - Return, volatility, and correlation analysis
+  - Data download and processing with yfinance
+  - Return, volatility and correlation analysis
   - Maximum drawdown and (rolling) Sharpe ratio
 
 - **portfolio_simulation.ipynb**
@@ -11,26 +11,27 @@
 
 - **value_at_risk.ipynb**
   - Historical simulation
-  - Parametric method (variance–covariance)
+  - Parametric (variance–covariance) method
   - Monte Carlo simulation
-    
-- **monte_carlo_pricing.ipynb**
-  - Monte Carlo simulation of option price
-  - Geometric Brownian motion path generator
-  - Log-normal distribution histogram
-  - Comparison of MC price and Black–Scholes formula
-
-- **greeks_visualization.ipynb**
-  - Calculation of historical volatility
-  - Greek letters using Black–Scholes model
-  - Plot of volatility smile and surface
+  - VaR for options portfolio
 
 - **black_scholes_calculator.ipynb**
   - Pricing formula of Black–Scholes–Merton
   - Calculation of implied volatility
 
+- **greeks.ipynb**
+  - Calculation of historical volatility
+  - Greek letters using Black–Scholes model
+  - Greeks via finite differences
+
+- **monte_carlo_pricing.ipynb**
+  - Monte Carlo simulation of option prices
+  - Variance reduction
+  - Comparison and convergence
+
 - **binomial_tree_pricing.ipynb**
-  - Binomial option pricing model
+  - Binomial tree option pricing model
+  - Finite difference methods (explicit, implicit, Crank-Nicolson)
 
 **📦 Dependencies:** numpy, pandas, matplotlib, scipy, yfinance, etc.
 
