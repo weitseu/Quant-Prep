@@ -33,6 +33,10 @@
   - Binomial tree option pricing model
   - Finite difference methods (explicit, implicit, Crank-Nicolson)
 
+- **simple_backtesting.ipynb**
+  - Momentum and MA crossover signal generators
+  - Backtesting and performance metrics
+
 **📦 Dependencies:** numpy, pandas, matplotlib, scipy, yfinance, etc.
 
 **📝 Note:** These projects were built for learning purposes. The code examples in this repository were learned from online resources and refined with the help of generative AI.
